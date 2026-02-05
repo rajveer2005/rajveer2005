@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+  <h1>👋 Hi, I'm Sufiyan Khan</h1>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Building+Digital+Solutions" alt="Typing SVG" />
+  </p>
+</div>
 
-<!--
-**rajveer2005/rajveer2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- Full-Stack Developer (React, Node.js, Express)
+- Building real-world web applications
+- Focused on clean code, UI, and backend architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,html,css,git,postman,vercel&perline=12" />
+  </a>
+</p>
