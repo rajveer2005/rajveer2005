@@ -1,8 +1,9 @@
 <div align="center">
   <h1>👋 Hi, I'm Rajveer Jadhav</h1>
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Froent-End Developer;MERN+Stack+Enthusiast;Building+Digital+Solutions" alt="Typing SVG" />
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Front-End+Developer;React+Enthusiast;Building+Beautiful+User+Interfaces" alt="Typing SVG" />
+</p>
+
 </div>
 
 ---
